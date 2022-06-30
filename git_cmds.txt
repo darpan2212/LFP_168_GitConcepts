@@ -7,3 +7,7 @@
 7) git push origin BRANCH_NAME
 
 Git Branches
+1) git branch => to show the list of local branches
+2) git branch -M BRANCH_NAME => create and checkout to new branch
+3) git checkout BRANCH_NAME => checkout to existing branch
+4) git merge ANOTHER_BRANCH_NAME => merge branch with your current active branch
