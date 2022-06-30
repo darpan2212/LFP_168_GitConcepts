@@ -19,5 +19,11 @@ public class Dog {
 		tommy.name = "Tommy";
 		tommy.breed = "Bulldog";
 		tommy.barking();
+		
+		Dog happy = new Dog();
+		happy.color = "white";
+		happy.name = "Happy";
+		happy.breed = "Pommerian";
+		happy.barking();
 	}
 }
