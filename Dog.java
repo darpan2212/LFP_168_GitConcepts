@@ -12,16 +12,12 @@ public class Dog {
 		rocky.color = "black";
 		rocky.name = "Rocky";
 		rocky.breed = "Huskey";
-		
 		rocky.barking();
 		
 		Dog tommy = new Dog();
 		tommy.color = "white";
 		tommy.name = "Tommy";
 		tommy.breed = "Bulldog";
-		
 		tommy.barking();
-		
-		
 	}
 }
